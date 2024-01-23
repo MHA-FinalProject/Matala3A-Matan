@@ -1,6 +1,6 @@
 # Matala3A-Matan
 
-זהו משחק חלליות שצריכה להרוס את האויבים שלה. למשחק לחץ כאן : [click here](https://m-h-a.itch.io/ex3-a-matan)
+זהו משחק חלליות שצריכה להרוס את האויבים שלה. למשחק ב-itch.io לחץ כאן : [click here](https://m-h-a.itch.io/ex3-a-matan)
 ##
 
 במשימה זו ביצעתי את ההוספות הבאות למשחק: (עשיתי את זה על ה - level 1 scene שבתקייה 4)
