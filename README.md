@@ -1,6 +1,8 @@
 # Matala3A-Matan
 
 זהו משחק חלליות שצריכה להרוס את האויבים שלה. למשחק ב-itch.io לחץ כאן : [click here](https://m-h-a.itch.io/ex3-a-matan)
+
+מקשים : A- שמאלה , D- ימינה , space - לירות
 ##
 
 במשימה זו ביצעתי את ההוספות הבאות למשחק: (עשיתי את זה על ה - level 1 scene שבתקייה 4) קישור : [click here](Assets/Scenes/4-levels/level-1.unity) 
