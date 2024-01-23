@@ -45,4 +45,4 @@
 
 ![Screenshot 2024-01-23 184536](https://github.com/MHA-FinalProject/Matala3A-Matan/assets/118104946/38c3b7b7-0c5b-4929-a6bb-a3c232f94bea)
 
-
+שמתי את ה scripts גם על האויב ועל הלייזר.
