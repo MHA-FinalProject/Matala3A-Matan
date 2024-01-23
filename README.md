@@ -26,7 +26,7 @@
 ![Screenshot 2024-01-23 174625](https://github.com/MHA-FinalProject/Matala3A-Matan/assets/118104946/48bfe7c8-868f-49fe-94c9-7634026c4f28)
 
 
-ב - LaserShooter script : ( נמצא בתקייה 2 - spawners)
+ב - LaserShooter script : קישור לסקריפט - [click here](Assets/Scripts/2-spawners/LaserShooter.cs)
 
 בסף הכל עשיתי שאחרי שהוא יוצר את האוביקט החדש או בודק אם הוא null וממש את שאר הפונקציה כפי שהייתה. הבדיקה הזאת חשובה כי אם מנסים לירות מתי שלא עבר הזמן שהגדרנו שאי אפשר לירות אז האוביקט הוא null וזה יעשה שגיאה בלי הבדיקה אז לכן אם הוא null נחזיר null.
 
