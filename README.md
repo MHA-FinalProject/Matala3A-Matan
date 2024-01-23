@@ -3,7 +3,9 @@
 זהו משחק חלליות שצריכה להרוס את האויבים שלה. למשחק ב-itch.io לחץ כאן : [click here](https://m-h-a.itch.io/ex3-a-matan)
 ##
 
-במשימה זו ביצעתי את ההוספות הבאות למשחק: (עשיתי את זה על ה - level 1 scene שבתקייה 4)
+במשימה זו ביצעתי את ההוספות הבאות למשחק: (עשיתי את זה על ה - level 1 scene שבתקייה 4) קישור : [click here](Assets/Scenes/4-levels/level-1.unity) 
+
+
 1.עשיתי שהשחקן לא יוכל לירות ללא הפסקה אלא צריך לחכות שנייה אחת בין ירייה לירייה.
  
    ב- ClickSpawner script : קישור לסקריפט - [click here](Assets/Scripts/2-spawners/ClickSpawner.cs)
